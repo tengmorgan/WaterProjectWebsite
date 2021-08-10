@@ -21,6 +21,19 @@ Advanced Questions:<br>
 [Click here for the 2D web application](https://twodimensiontesting.herokuapp.com/)
 
 ## 1D Plot
+Problem:<br>
+On a hot summer day, lab assistant Sally was given a task to disposal a bottle of chemical. Without much thinking, she pours the chemical right down the drain! It was later found that the chemical being poured is benzene and spills directly into the groundwater! In order to prevent the local residents using the contaminated water, use the following contamination model to check the spread of the benzene. 
 
-![](KISS.jpg)
+Model Application:<br> 
+The program gives you a plot which represents the chemical concentration at different distances towards east (right) from the lab. The program also gives you two ways to model what happened after Sally poured the chemicals. You may choose the type of soil that the chemicals are going into and you may adjust the how much chemicals was poured. Use the two methods in the program and check how the concentration of the chemical changes at different locations over time.
+
+Questions: <br>
+1) What is the effect on the maximum concentration when porosity increases? <br>
+2) If the pollution mass, porosity, and absorption all stay constant, what happens to the concentration as time goes on?<br>
+3) Don't change the pollution mass and porosity, observe and describe the changes to the curves as absorption changes?<br>
+
+Advanced Questions:<br>
+1) A spill occurred into an aquifer near UC Davis! The spill mass is known to have a mass of 800 kg, and soil test shows that the porosity of the aquifer is 0.36 and the absorption is 2.5. How far away horizontally can we expect the maximum concentration to occur after 5 days? and 20 days? <br>
+2) The city policy of Davis allows 20 kg/m of concentration for this contaminant. Knowing the porosity and absorption is 0.34 and 4.35 respectively. What is the maximum spill mass allowed in the aquifer before violating the local environmental policy?
+
 [Click here for the 1D web application](https://onedimensiontesting.herokuapp.com/)
