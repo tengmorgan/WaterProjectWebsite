@@ -37,3 +37,5 @@ Advanced Questions:<br>
 2) The city policy of Davis allows 20 kg/m of concentration for this contaminant. Knowing the porosity and absorption is 0.34 and 4.35 respectively. What is the maximum spill mass allowed in the aquifer before violating the local environmental policy?
 
 [Click here for the 1D web application](https://onedimensiontesting.herokuapp.com/)
+
+![](Pic.jpg)
