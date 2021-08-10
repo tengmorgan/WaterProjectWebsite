@@ -38,4 +38,3 @@ Advanced Questions:<br>
 
 [Click here for the 1D web application](https://onedimensiontesting.herokuapp.com/)
 
-![](Pic.jpg)
