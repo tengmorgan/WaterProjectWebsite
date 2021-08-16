@@ -6,7 +6,7 @@ Problem:<br>
 An air force base was found to be releasing sewage into groundwater! The spill of the sewage continues to happen without stopping! In order to protect the local residents near the air force base, we need to know where the groundwater has been contaminated and stop local residents from using groundwater. The following program can help you check which locations contain polluted water and we can stop it from being used! 
 
 Model Application:<br> 
-Look at the map, the sewage spill happens at the red dot location. Use the three built-in variables to check how the sewage spreads. Use the time variable to check the spread pattern as time passes after the start of the spill. The velocity variable represents how fast the groundwater is moving towards the right on the map. The dispersion factor is a soil property showing which direction the sewage would spread. Adjust the three variables and check how the spread pattern of the sewage changes over time! 
+Look at the map, the sewage spill happens at the red dot location. Use the three built-in variables to check how the sewage spreads. Use the time variable to check the spread pattern as time passes after the start of the spill. The velocity variable represents how fast the groundwater is moving towards the right on the map. The dispersion factor is a soil property that determines how much more the sewage spreads laterally to the main direction of groundwater flow. It can also be understood as the the length to width ratio of the shape of the spreading plume. Adjust the three variables and check how the spread pattern of the sewage changes over time! 
 
 Questions: <br>
 1) What happens to the shape of the contaminant spreading as the dispersion factor increases?<br>
@@ -22,10 +22,10 @@ Advanced Questions:<br>
 
 ## 1D Plot
 Problem:<br>
-On a hot summer day, lab assistant Sally was given a task to disposal a bottle of chemical. Without much thinking, she pours the chemical right down the drain! It was later found that the chemical being poured is benzene and spills directly into the groundwater! In order to prevent the local residents using the contaminated water, use the following contamination model to check the spread of the benzene. 
+Sally and Zoe work at an environmental science lab as an intern assistant. One day, they were given a task to disposal a bottle of benzene. Without discussing with Zoe, Sally pours the chemical on the ground outside the lab! The benzene poured by Sally spilled directly into groundwater in the area! In order to prevent the local residents using the contaminated water, use the following contamination model to check the spread of the benzene. 
 
 Model Application:<br> 
-The program gives you a plot which represents the chemical concentration at different distances towards east (right) from the lab. The program also gives you two ways to model what happened after Sally poured the chemicals. You may choose the type of soil that the chemicals are going into and you may adjust the how much chemicals was poured. Use the two methods in the program and check how the concentration of the chemical changes at different locations over time.
+The program gives you a plot which represents the chemical concentration at different distances towards east (right) from the lab. The program also gives you two variable, soil type and chemical mass, to stimulate what happened after Sally poured the benzene. You may choose the type of soil that the chemicals are going into and you may adjust the how much chemicals was poured. Use the two mathematical representations in the program and check how the concentration of the chemical changes at different locations over time.
 
 Questions: <br>
 1) What is the effect on the maximum concentration when porosity increases? <br>
